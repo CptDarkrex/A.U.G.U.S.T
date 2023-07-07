@@ -70,4 +70,4 @@ Contributions to Python LLM Assistant are welcome! Please read the [CONTRIBUTING
 Python LLM Assistant is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any queries or suggestions, please feel free to reach out at [your_email@example.com](mailto:your_email@example.com).
+For any queries or suggestions, please feel free to reach out at [rodrigcp22@gmail.com](rodrigcp22@gmail.com).
