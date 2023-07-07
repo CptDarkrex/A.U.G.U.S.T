@@ -1,5 +1,5 @@
 # August
-## Python LLM Assistant
+Python LLM Assistant
 
 ## Table of Contents
 1. [Introduction](#introduction)
